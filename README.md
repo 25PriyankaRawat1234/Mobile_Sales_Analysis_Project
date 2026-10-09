@@ -228,7 +228,7 @@ Summarises key findings and potential business implications derived from the ana
 
 ### 5. Insights Drawn
 
-![Key Insights Dashboard](screenshots/key-insights.png)
+![ image alt ](https://github.com/25PriyankaRawat1234/Mobile_Sales_Analysis_Project/blob/5934d863f585f6b01ad9ef81016f35f147ef0129/Key_Insights.png)
 
 *Note: Add your actual Power BI screenshots to the `screenshots` folder using these filenames so that the images display correctly on GitHub.*
 
