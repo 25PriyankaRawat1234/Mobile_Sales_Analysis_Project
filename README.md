@@ -213,7 +213,7 @@ Summarises key findings and potential business implications derived from the ana
 
 ### 1. Overview
 
-![Overview Dashboard](screenshots/overview.png)
+![ image alt ](https://github.com/25PriyankaRawat1234/Mobile_Sales_Analysis_Project/blob/d997920e81a6c40535c04f9b1df025f9f7b1fdfe/Mobile_Sales_Data_Overview1.png)
 
 ### 2. Sales Performance
 
