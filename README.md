@@ -217,7 +217,7 @@ Summarises key findings and potential business implications derived from the ana
 
 ### 2. Sales Performance
 
-![Sales Performance Dashboard](screenshots/sales-performance.png)
+![ image alt ](https://github.com/25PriyankaRawat1234/Mobile_Sales_Analysis_Project/blob/d997920e81a6c40535c04f9b1df025f9f7b1fdfe/Mobile_Sales_Data_Overview1.png)
 
 ### 3. Customer Preferences & Pricing
 
