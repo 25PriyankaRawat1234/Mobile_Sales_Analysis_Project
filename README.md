@@ -1,5 +1,5 @@
 # 📱 Mobile Sales Analysis Dashboard | Power BI
-
+![ image alt ](https://github.com/25PriyankaRawat1234/Mobile_Sales_Analysis_Project/blob/8bd87e2feead36ed6b28813504f3b929919b9432/Project.png)
 ## Table of Contents
 
 * [Brief One-Line Summary](#brief-one-line-summary)
