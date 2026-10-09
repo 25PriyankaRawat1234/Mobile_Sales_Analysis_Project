@@ -225,7 +225,7 @@ Summarises key findings and potential business implications derived from the ana
 
 ### 4. Ratings & Brand Comparison
 
-![Ratings and Brand Comparison Dashboard](screenshots/ratings-brand-comparison.png)
+![ image alt ](https://github.com/25PriyankaRawat1234/Mobile_Sales_Analysis_Project/blob/a42620b33c6452fe3482cad74241db73eb6627ff/Mobile_Sales_Data_Overview3.png)
 
 ### 5. Insights Drawn
 
