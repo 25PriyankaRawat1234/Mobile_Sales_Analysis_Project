@@ -221,7 +221,7 @@ Summarises key findings and potential business implications derived from the ana
 
 ### 3. Customer Preferences & Pricing
 
-![Customer Preferences and Pricing Dashboard](screenshots/customer-preferences-pricing.png)
+![ image alt ](https://github.com/25PriyankaRawat1234/Mobile_Sales_Analysis_Project/blob/72da6a77449c7d0ba704e9cbbf08aa1e810187a5/Mobile_Sales_Data_Overview2.png)
 
 ### 4. Ratings & Brand Comparison
 
